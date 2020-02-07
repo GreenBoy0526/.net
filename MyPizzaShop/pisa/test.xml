@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<famliy>
+  <chengYuan>
+    <name>父亲</name>
+    <age>50</age>
+    <height>175</height>
+  </chengYuan>
+  <chengYuan>
+    <name>母亲</name>
+    <age>55</age>
+    <height>165</height>
+  </chengYuan>
+</famliy>
