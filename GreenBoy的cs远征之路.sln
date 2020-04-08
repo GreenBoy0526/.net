@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOffice", "MyOffice\MyOffi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器", "计算器\计算器.csproj", "{FA34ABCD-7608-41D9-9088-ACE8EE806C5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "方法重写 虚方法", "方法重写 虚方法\方法重写 虚方法.csproj", "{BF38ED85-803E-4AA1-A44E-E06E327D5F3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{FA34ABCD-7608-41D9-9088-ACE8EE806C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA34ABCD-7608-41D9-9088-ACE8EE806C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA34ABCD-7608-41D9-9088-ACE8EE806C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF38ED85-803E-4AA1-A44E-E06E327D5F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF38ED85-803E-4AA1-A44E-E06E327D5F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF38ED85-803E-4AA1-A44E-E06E327D5F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF38ED85-803E-4AA1-A44E-E06E327D5F3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

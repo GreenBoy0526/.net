@@ -13,7 +13,6 @@ namespace ado.net
             Students st = new Students();
             st.Login(Console.ReadLine(), Console.ReadLine());
             Console.ReadKey();
-
         }
     }
 }

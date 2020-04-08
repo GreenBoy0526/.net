@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串大小写转换", "字符串大小写转换\字符串大小写转换.csproj", "{9860FC94-A4A5-455A-8DB8-938EB0544A7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串", "字符串大小写转换\字符串.csproj", "{9860FC94-A4A5-455A-8DB8-938EB0544A7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
